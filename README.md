@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Debug: 
+1. Khi click vào detail movie vẫn còn 2 cái loading screen
+
+2. Phần fav movie nên render ra từng movie card luôn thay vì bảng như hiện tại. Ngoai ra hiện tại ở trang profile select filter qua lại với nhau vẫn chưa hoạt động
+
+3. Ở trang popular/top_rated/search, các movie card nên có spacing với nhau và fix chiều cao lại, hiện tại chưa đều
